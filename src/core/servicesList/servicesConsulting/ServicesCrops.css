@@ -1,0 +1,32 @@
+
+
+#Consult-img{
+    width:200px;
+    height:175px;
+    float:left;
+    padding-left:10px;
+}
+
+.info1 {
+    padding-left: 250px;
+}
+
+.tt{
+    border-top:thin;
+}
+
+h4 {
+    color: darkslategrey;
+    border-bottom: 5px solid black;
+}
+
+.guidelines{
+    border-bottom:none;
+    background:grey;
+    color:black;
+}
+
+.coldhot{
+    float:left;
+    font-size:20px;
+}
